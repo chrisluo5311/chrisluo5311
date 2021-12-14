@@ -1,11 +1,13 @@
 <div align="center">
    <h1>Hi there, I'm Chris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center"><img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/> About me <img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/></h2>
+
 <div>
-<img align='right' src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47zgl1uaztc9we5vxyfy8fngazq9c91qowii7j3xhc&rid=giphy.gif&ct=g">
+<img align='right' height="200" src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47zgl1uaztc9we5vxyfy8fngazq9c91qowii7j3xhc&rid=giphy.gif&ct=g">
 
 Hello, my name is Chris👋. I'm a junior java software engineer, doing a fourth party payment maintenance and a blockchain project development. I graduated from Soochow University in Taiwan, double majoring in English Language and Literature, and International Business. In 2021/05, I graduated from a coding workshop at III(Institute for Information Industry), building my first [web page](https://github.com/PepperNoodles/PepperNoodles "PepperNoodles") with friends, and totally found a new passion in development. I love to improve my skills, build creative ideas and communicate with others. Thanks for regarding. Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-luo-b4b350189/ "LinkedIn"). 
 </div><br>
