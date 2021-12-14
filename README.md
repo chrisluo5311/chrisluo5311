@@ -1,5 +1,56 @@
-### Hi I'm chris 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisluo5311&show_icons=true&count_private=true&theme=highcontrast)
+---
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisluo5311&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<h2 align="center"><img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/> About me <img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/></h2>
+
+Hello, my name is Chris👋. I'm a junior java software engineer, doing a fourth party payment maintenance and a blockchain project development. I graduated from Soochow University in Taiwan, double majoring in English Language and Literature, and International Business. In 2021/05, I graduated from a coding workshop at III(Institute for Information Industry), building my first [web page](https://github.com/PepperNoodles/PepperNoodles "PepperNoodles") with friends, and totally found a new passion in development. I love to improve my skills, build creative ideas and communicate with others. Thanks for regarding. Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-luo-b4b350189/ "LinkedIn").
+
+---
+
+<h2 align="center"> 🔧 Technologies & Tools </h2>
+
+<div align="center">
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+<h2 align="center"> 💻 Github Stats </h2>
+
+<table align="center" width="100%">  
+  <tr>
+    <td align="center">
+      <img src= "https://github-readme-stats.vercel.app/api?username=chrisluo5311&show_icons=true&count_private=true&theme=highcontrast">
+    </td>
+    <td align="center">
+       <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=chrisluo5311&layout=compact">
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center"> 😃 Contact me </h2>
+
+<div align="center">
+   <a href="https://www.linkedin.com/in/chris-luo-b4b350189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp
+   <a href="https://github.com/chrisluo5311/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp
+  <a href="chrislo5311@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp
+  <a href="https://dev.to/chrisluo5311"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+</a>
+</div>
+
+
