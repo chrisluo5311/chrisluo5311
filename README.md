@@ -13,7 +13,6 @@
 #### Hello, my name is Chris👋. I'm a junior java software engineer, doing a fourth party payment maintenance and a blockchain project development. I graduated from Soochow University in Taiwan, double majoring in English Language and Literature, and International Business. In 2021/05, I graduated from a coding workshop at III(Institute for Information Industry), building my first [web project](https://github.com/PepperNoodles/PepperNoodles "PepperNoodles") with my friends, and totally found a new passion in development. I love to improve my skills, build creative ideas and communicate with others. Thanks for regarding. Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-luo-b4b350189/ "LinkedIn"). 
 </div>
 <br>
-<br>
 
 ---
 
