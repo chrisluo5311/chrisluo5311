@@ -10,7 +10,7 @@
 <div>
 <img align='right' height="200" src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47zgl1uaztc9we5vxyfy8fngazq9c91qowii7j3xhc&rid=giphy.gif&ct=g">
 
-#### Hello, my name is Chris👋. I'm a junior java software engineer, doing a fourth party payment maintenance and a blockchain project development. I graduated from Soochow University in Taiwan, double majoring in English Language and Literature, and International Business. In 2021/05, I graduated from a coding workshop at III(Institute for Information Industry), building my first [web page](https://github.com/PepperNoodles/PepperNoodles "PepperNoodles") with friends, and totally found a new passion in development. I love to improve my skills, build creative ideas and communicate with others. Thanks for regarding. Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-luo-b4b350189/ "LinkedIn"). 
+#### Hello, my name is Chris👋. I'm a junior java software engineer, doing a fourth party payment maintenance and a blockchain project development. I graduated from Soochow University in Taiwan, double majoring in English Language and Literature, and International Business. In 2021/05, I graduated from a coding workshop at III(Institute for Information Industry), building my first [web project](https://github.com/PepperNoodles/PepperNoodles "PepperNoodles") with friends, and totally found a new passion in development. I love to improve my skills, build creative ideas and communicate with others. Thanks for regarding. Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-luo-b4b350189/ "LinkedIn"). 
 </div>
 <br>
 
