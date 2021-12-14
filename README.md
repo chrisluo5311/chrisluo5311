@@ -1,10 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm Chris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
 </div>
-
-
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center"><img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/> About me <img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/></h2>
 <div>
