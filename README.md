@@ -48,6 +48,16 @@
        <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=chrisluo5311&layout=compact">
     </td>
   </tr>
+   <tr>
+      <td colspan="2" align="center">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisluo5311&theme=dark">
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center">
+         <img src="https://activity-graph.herokuapp.com/graph?username=chrisluo5311&theme=elegant">
+      </td>
+   </tr>
 </table>
 
 ---
