@@ -49,8 +49,11 @@
     </td>
   </tr>
    <tr>
-      <td colspan="2" align="center">
+      <td align="center">
          <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisluo5311&theme=dark">
+      </td>
+      <td align="center">
+         <img src="https://api.githubtrends.io/user/svg/chrisluo5311/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
       </td>
    </tr>
    <tr>
@@ -59,6 +62,7 @@
       </td>
    </tr>
 </table>
+
 
 ---
 
