@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm Chris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Hi there, I'm Chris 😀</h1>
    <img src="https://komarev.com/ghpvc/?username=chrisluo5311&label=Profile%20views&color=red&style=flat" alt="chrisluo5311" />
 </div>
 
