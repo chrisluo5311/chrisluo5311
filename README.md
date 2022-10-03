@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm Chris 😀</h1>
+   <h1>Hi there, I'm Chris <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/winking-face_1f609.png" width="40" height="40" /></h1>
    <img src="https://komarev.com/ghpvc/?username=chrisluo5311&label=Profile%20views&color=red&style=flat" alt="chrisluo5311" />
 </div>
 
