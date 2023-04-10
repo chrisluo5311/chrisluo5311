@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm Chris <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/grinning-face-with-big-eyes_1f603.gif" width="40" height="40" /></h1>
+   <h1>Hi there, I'm Chris </h1>
    <img src="https://komarev.com/ghpvc/?username=chrisluo5311&label=Profile%20views&color=red&style=flat" alt="chrisluo5311" />
 </div>
 
@@ -54,11 +54,6 @@
       </td>
       <td align="center">
          <img src="https://api.githubtrends.io/user/svg/chrisluo5311/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
-      </td>
-   </tr>
-   <tr>
-      <td colspan="2" align="center">
-         <img src="https://activity-graph.herokuapp.com/graph?username=chrisluo5311&theme=elegant">
       </td>
    </tr>
 </table>
