@@ -6,15 +6,6 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [我不信你沒看到](https://www.youtube.com/watch?v=mL-Ful2IqHs)
-- [100% KOBE SPOT &amp; KNIFE THE F OUT OF BLITZ !!!](https://www.youtube.com/watch?v=Y0xp_AXOj0w)
-- [這Mute看Thermite看得很詭異](https://www.youtube.com/watch?v=QZipq_Z_IFU)
-<!-- BLOG-POST-LIST:END -->
-
-
-
 <h2 align="center"><img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/> About me <img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/></h2>
 
 <div>
