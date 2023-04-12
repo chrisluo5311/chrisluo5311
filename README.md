@@ -5,6 +5,13 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<div>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</div>
+
+
 <h2 align="center"><img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/> About me <img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/></h2>
 
 <div>
