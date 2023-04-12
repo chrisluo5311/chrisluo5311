@@ -8,6 +8,9 @@
 <div>
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [我不信你沒看到](https://www.youtube.com/watch?v=mL-Ful2IqHs)
+- [100% KOBE SPOT &amp; KNIFE THE F OUT OF BLITZ !!!](https://www.youtube.com/watch?v=Y0xp_AXOj0w)
+- [這Mute看Thermite看得很詭異](https://www.youtube.com/watch?v=QZipq_Z_IFU)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
