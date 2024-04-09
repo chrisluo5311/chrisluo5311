@@ -11,7 +11,8 @@
 <div>
 <img align='right' height="200" width="350" src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47zgl1uaztc9we5vxyfy8fngazq9c91qowii7j3xhc&rid=giphy.gif&ct=g">
 
-#### Hello, my name is Chris👋. I'm a junior java software engineer, doing a fourth party payment maintenance and a blockchain project development. I graduated from Soochow University in Taiwan, double majoring in English Language and Literature, and International Business. In 2021/05, I graduated from a coding workshop at III(Institute for Information Industry), building my first [web project](https://github.com/PepperNoodles/PepperNoodles "PepperNoodles") with my friends, and totally found a new passion in development. I love to improve my skills, build creative ideas and communicate with others. Thanks for regarding. Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-luo-b4b350189/ "LinkedIn"). 
+#### Hello, my name is Chris👋, a Junior Java Engineer and current MS Computer Science student at Santa Clara University. With under one year of hands-on experience, my expertise includes Java backend development, machine learning, and Python. I have worked with technologies such as Spring Boot, TensorFlow, Keras, and OpenCV. I have experience in optimizing RESTful APIs, enhancing database performance, and developing innovative projects like a [gourmet map web application](https://github.com/PepperNoodles/PepperNoodles "PepperNoodles") and a [brain tumor detection model using CNN](https://github.com/chrisluo5311/Team_Image_Recognition) . My working experience includes a role at JY Globe Company where I built a cryptocurrency trading platform and improved web application performance. Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-luo-b4b350189/ "LinkedIn").
+
 </div>
 <br>
 
