@@ -6,7 +6,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h2 align="center"><img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/> About me <img src= "https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/></h2>
+<h2 align="center"> About me </h2>
 
 <div>
 <img align='right' height="200" width="350" src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47zgl1uaztc9we5vxyfy8fngazq9c91qowii7j3xhc&rid=giphy.gif&ct=g">
