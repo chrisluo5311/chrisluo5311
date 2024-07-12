@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm Chris </h1>
-   <img src="https://komarev.com/ghpvc/?username=chrisluo5311&label=Profile%20views&color=red&style=flat" alt="chrisluo5311" />
+   <!--<img src="https://komarev.com/ghpvc/?username=chrisluo5311&label=Profile%20views&color=red&style=flat" alt="chrisluo5311" />-->
 </div>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -63,13 +63,10 @@
 
 ---
 
-<h2 align="center"> 😃 Contact me </h2>
+<h2 align="center"> Contact me </h2>
 
 <div align="center">
    <a href="https://www.linkedin.com/in/chris-luo-b4b350189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp
-   <a href="https://github.com/chrisluo5311/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp
-  <a href="https://dev.to/chrisluo5311"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-</a>
 </div>
 
 
