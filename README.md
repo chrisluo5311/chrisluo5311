@@ -39,30 +39,6 @@
 
 ---
 
-<h2 align="center"> 💻 Github Stats </h2>
-
-<table align="center" width="100%">  
-  <tr>
-    <td align="center">
-      <img src= "https://github-readme-stats.vercel.app/api?username=chrisluo5311&show_icons=true&count_private=true&theme=highcontrast">
-    </td>
-    <td align="center">
-       <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=chrisluo5311&layout=compact">
-    </td>
-  </tr>
-   <tr>
-      <td align="center">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisluo5311&theme=dark">
-      </td>
-      <td align="center">
-         <img src="https://api.githubtrends.io/user/svg/chrisluo5311/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
-      </td>
-   </tr>
-</table>
-
-
----
-
 <h2 align="center"> Contact me </h2>
 
 <div align="center">
