@@ -11,7 +11,7 @@
 <div>
 <img align='right' height="200" width="350" src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47zgl1uaztc9we5vxyfy8fngazq9c91qowii7j3xhc&rid=giphy.gif&ct=g">
 
-#### Hello, my name is Chris👋, a Junior Java Engineer and current MS Computer Science student at Santa Clara University. With around one year of hands-on experience, including Java backend development, machine learning, Python, and AI Agents. I have worked with frameworks such as Spring Boot, TensorFlow, Keras, and OpenCV. My working experience includes a role at JY Globe Company where I built a cryptocurrency trading platform and improved web application performance. Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-luo-b4b350189/ "LinkedIn").
+#### Hello, my name is Chris👋, a Junior Java Engineer and current MS Computer Science student at Santa Clara University. With around 5 years of hands-on experience, including Java backend development, machine learning, Python, and AI Agents. I have worked with frameworks such as Spring Boot, TensorFlow, Keras, and OpenCV. My working experience includes a backend role at JY Globe Company where I built a cryptocurrency trading platform and improved web application performance. Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-luo-b4b350189/ "LinkedIn").
 
 </div>
 <br>
