@@ -8,14 +8,29 @@
 
 <h2 align="center"> About me </h2>
 
-<div>
-<img align='right' height="200" width="350" src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47zgl1uaztc9we5vxyfy8fngazq9c91qowii7j3xhc&rid=giphy.gif&ct=g">
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 32px; width: 60%;">
+      
+   Hello, my name is **Chris** 👋  
+   Computer Science graduate focused on **AI/ML**, with practical experience in **machine learning systems, RAG pipelines, and reinforcement learning for LLM reasoning**, combined with strong backend engineering skills in **Java Spring Boot and RESTful APIs**.
+   
+   I am seeking a full-time role building **data-driven, high-performance applications** that integrate advanced machine learning models with **scalable backend infrastructure**.
+   
+   Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-lo-cs/).
 
-#### Hello, my name is Chris👋, Computer Science graduate focus on AI/ML with practical experience in machine learning systems, RAG pipeline, and reinforcement learning for LLM reasoning, combined with robust backend engineering skills in Java Spring Boot and RESTful APIs. Seeking to take on a full-time role building data-driven, high-performance applications that integrate advanced machine learning models with scalable backend infrastructure. Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-lo-cs/ "LinkedIn").
+ </td>
+ <td style="width: 40%;">
+   <img
+     src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47zgl1uaztc9we5vxyfy8fngazq9c91qowii7j3xhc&rid=giphy.gif&ct=g"
+     width="350"
+   />
+ </td>
+  </tr>
+</table>
 
-</div>
 <br>
-<br><br>
+
 
 ---
 
