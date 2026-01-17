@@ -44,6 +44,18 @@
   </tr>
 
   <tr>
+     <td><b>LLM Models</b></td>
+     <td>
+       <img src="https://img.shields.io/badge/Qwen-4A90E2?style=for-the-badge&logoColor=white"/>
+       <img src="https://img.shields.io/badge/DeepSeek-111111?style=for-the-badge&logoColor=white"/>
+       <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+       <img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logoColor=white"/>
+     </td>
+  </tr>
+
+  <tr>
     <td><b>Programming</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -77,6 +89,7 @@
       <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
       <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
