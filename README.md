@@ -15,8 +15,6 @@
    Hello, my name is **Chris** 👋  
    Computer Science graduate focused on **AI/ML**, with practical experience in **machine learning systems, RAG pipelines, and reinforcement learning for LLM reasoning**, combined with strong backend engineering skills in **Java Spring Boot and RESTful APIs**.
    
-   I am seeking a full-time role building **data-driven, high-performance applications** that integrate advanced machine learning models with **scalable backend infrastructure**.
-   
    Feel free to message me on [LinkedIn](https://www.linkedin.com/in/chris-lo-cs/).
 
  </td>
